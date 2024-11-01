@@ -21,3 +21,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+cjoyy:
+  name: Calvin Joy Tarigan
+  title: cjoyy
+  url: https://github.com/cjoyy
+  image_url: https://github.com/cjoyy.png
+  socials:
+    github: cjoyy
+
+githubhiseka:
+  name: Abhiseka Susanto
+  title: githubhiseka
+  url: https://github.com/githubhiseka
+  image_url: https://github.com/githubhiseka.png
+  socials:
+    github: githubhiseka
